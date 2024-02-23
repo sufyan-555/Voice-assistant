@@ -1,0 +1,9 @@
+wolframalpha==5.0.0
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+feedparser==6.0.8
+twilio==6.68.0
+beautifulsoup4==4.10.0
+requests==2.26.0
+pyjokes==0.6.0
